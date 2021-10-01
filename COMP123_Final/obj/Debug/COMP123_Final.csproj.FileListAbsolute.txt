@@ -1,0 +1,15 @@
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\bin\Debug\COMP123_Final.exe.config
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\bin\Debug\COMP123_Final.exe
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\bin\Debug\COMP123_Final.pdb
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\COMP123_Final.csprojAssemblyReference.cache
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\MainWindow.g.cs
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\App.g.cs
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\COMP123_Final_MarkupCompile.cache
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\COMP123_Final_MarkupCompile.lref
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\MainWindow.baml
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\COMP123_Final.g.resources
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\COMP123_Final.Properties.Resources.resources
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\COMP123_Final.csproj.GenerateResource.cache
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\COMP123_Final.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\COMP123_Final.exe
+C:\Users\J\source\repos\COMP123_Final\COMP123_Final\obj\Debug\COMP123_Final.pdb
